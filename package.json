@@ -1,0 +1,20 @@
+{
+  "name": "unit4.block33.acmehr.directory",
+  "version": "1.0.0",
+  "description": "1. Create GitHub repository (acme_hr_directory). Use the guided practice as a reference. 2. Create the departments and employees tables.  3. Seed the tables with some data.  4. Create express server. 5. Have express server listen.  6. Test your routes using curl and/or Postman, again using guided practice as a reference. 7. Submit your work in the space provided.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "morgan": "^1.10.0",
+    "pg": "^8.11.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
